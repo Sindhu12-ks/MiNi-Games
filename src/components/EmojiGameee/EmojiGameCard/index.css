@@ -9,7 +9,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
   .navBar{
     padding: 0px;
     height: 8vh;
@@ -31,7 +31,7 @@
   height: 30px;
   margin-right: 10px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .winkEmoji{
   width:18px;
   height: 18px;
@@ -44,7 +44,7 @@
   font-size: 20px;
   color: #334155;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .gameTitle{
   font-size: 10px;
 }
@@ -55,7 +55,7 @@
   font-size: 18px;
   color: #334155;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .topscore{
   font-weight: 0;
   font-size: 10px;
@@ -68,7 +68,7 @@
   margin-left: 15px;
   color: #334155;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .score{
   font-size: 10px;
   font-weight: 0;
@@ -81,7 +81,7 @@
   flex-direction: column;
   padding: 20px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .afterNavBar{
   padding: 0;
 }
@@ -110,7 +110,7 @@
   font-weight: 500;
   font-size: 20px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .textBack{
   font-weight: 10px;
   font-size: 10px;
@@ -125,7 +125,7 @@
   font-weight: 600;
   background-color: transparent;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .rulesButton{
   width: 40px;
   height: 18px;
@@ -141,7 +141,7 @@
   justify-content: center;
   gap: 15px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .emoji-list{
   gap:5px;
   padding: 0;
@@ -159,7 +159,7 @@
   width: 80%;
   overflow: auto;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .rules-content-interface{
   padding: 0px;
 }
@@ -193,7 +193,7 @@
   font-weight: 700;
   text-align: center;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .rules-heading{
   font-weight: 0;
   font-size: 12px;
@@ -207,7 +207,7 @@
   text-align: start;
   margin-left: 20px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
 .unordered-list-styling-interface{
   font-size: 10px;
   font-weight: 0;

@@ -10,7 +10,7 @@
   color:#fec653;
   font-size: 20px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .matchGameHeading{
     font-size: 10px;
     max-width:40px;
@@ -27,7 +27,7 @@
   font-size: 20px;
   padding-right: 16px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .heading-text{
     font-size: 10px;
   }
@@ -37,7 +37,7 @@
   color: #fec653;
   font-weight: bold;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .score-time{
     font-size: 10px;
 
@@ -52,7 +52,7 @@
   height: 22px;
   margin-right: 10px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .timer-image{
      width: 18px;
      height: 18px;

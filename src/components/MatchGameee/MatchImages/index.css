@@ -9,7 +9,7 @@
   padding-top: 30px;
   padding-bottom: 30px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .background2{
     padding-left: 0px;
   padding-right: 0px;
@@ -32,7 +32,7 @@
   font-weight: 500;
   font-size: 20px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .backText1{
     font-weight: 0;
     font-size: 12px;
@@ -55,7 +55,7 @@
   font-size: 24px;
   color: #fff;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .gameText1{
     font-weight: 0;
     font-size: 14px;
@@ -106,7 +106,7 @@
   flex-wrap: wrap;
   gap: 1rem 2.5rem;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .buttonMatrix{
     width:75px;
     height:30px;

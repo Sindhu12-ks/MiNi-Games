@@ -16,7 +16,7 @@
 .emojiSingle {
   width: 60%;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
   .emojiCard{
     width: 30px;
     height: 30px;

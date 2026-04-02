@@ -86,7 +86,7 @@
   flex: 1 1 45%;
   min-width: 0;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .background3{
     padding: 0;
   }

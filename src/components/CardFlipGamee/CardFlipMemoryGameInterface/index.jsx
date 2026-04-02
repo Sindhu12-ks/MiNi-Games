@@ -227,7 +227,7 @@ const CardFlipMemoryGameInterface = () => {
         <h1 className="congratulation-response-text">
           {isWin ? 'Congratulations!' : 'Better luck next time!'}
         </h1>
-        <p className="no-of-flips-text">No.of Flips - {cardFlipCount}</p>
+        <p className="no-of-flips-text">No.of Flips -  {cardFlipCount}</p>
         <h1 className="response-description">
           {isWin
             ? 'You matched all of the cards in record time'
@@ -332,7 +332,6 @@ const CardFlipMemoryGameInterface = () => {
             Score - {score > 9 ? score : `0${score}`}
           </p>
         </div>
-
         <div className="cfm-game-container">
           <ul className="animal-cards-unorder-list-styling">
             {shuffledCards.map(eachItem => (

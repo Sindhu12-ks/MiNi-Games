@@ -70,7 +70,7 @@
 .link {
   text-decoration: none;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .background{
     height: 120vh;
     padding:0px;

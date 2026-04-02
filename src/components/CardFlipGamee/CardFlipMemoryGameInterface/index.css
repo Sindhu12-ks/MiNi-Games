@@ -54,7 +54,7 @@
   align-items: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .cfm-popup-rules-container {
     width: 90%;
     min-height: 90vh;
@@ -83,7 +83,7 @@
   font-weight: 400;
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .cfm-active-state-rules-text{
      font-size: 14px;
   }
@@ -96,7 +96,7 @@
   margin-bottom: 10px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .cfm-active-rules-list-item-styling {
     font-size: 10px;
     margin-bottom:8px;
@@ -112,7 +112,7 @@
   align-self: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .cfm-active-state-heading {
     font-family: Roboto;
     font-size: 12px;
@@ -130,7 +130,7 @@
   color: #ffffff;
   padding: 0px 20px 0px 20px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .active-state-score-time-unordered-list{
     display: flex;
     flex-direction: column;
@@ -151,7 +151,7 @@
   text-align: left;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .active-state-score-list-detail {
     font-family: Roboto;
     font-size: 10px;
@@ -168,7 +168,7 @@
   color:rgb(241, 0, 72);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .active-state-time-list-detail {
     font-family: Roboto;
     font-size: 10px;
@@ -187,7 +187,7 @@
   padding: 10px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .cfm-game-container {
     width: 90%;
     min-height: 40vh;
@@ -205,7 +205,7 @@
   gap: 5px;
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .animal-cards-unorder-list-styling{
     gap:2px;
     justify-content: center;
@@ -265,7 +265,7 @@
   text-align: left;
   border: none;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .result-response-emoji{
     height: 70px;
     width:70px;

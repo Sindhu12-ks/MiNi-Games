@@ -15,7 +15,7 @@
   color: #fec653;
   border-bottom: 3px solid #fec653;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:767px){
   .tab-item-button{
     font-size: 10px;
   }
